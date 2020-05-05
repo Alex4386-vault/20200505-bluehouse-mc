@@ -1,0 +1,76 @@
+주의사항
+마인크래프트 Java Edition의 1.12.2 버전을 기준으로 제작된 맵입니다.
+싱글 플레이시 자동으로 리소스팩이 적용됩니다.
+멀티플레이시에는 모든 플레이어가 맵 폴더 안에 있는 resources.zip 파일을 리소스팩으로 적용하여야 합니다.
+각 주요 공간 입구에 위치한 발판을 밝으면 해당 장소의 내부로 이동할 수 있습니다.
+
+# 맵 적용 방법 (윈도우)
+마인크래프트를 실행합니다.
+파일을 다운 받고 폴더 형태로 압축을 풀어줍니다.
+Windows키와 R키를 눌러 나온 팝업창에 %appdata% 를 입력 후 확인 버튼을 누룹니다.
+.minecraft 폴더를 찾아 이동 후 saves 폴더로 들어갑니다.
+압축을 푼 폴더를 복사하여, saves 폴더 내에 붙여 넣어줍니다.
+마인크래프트를 실행 후 싱글플레이 메뉴로 접속하여 맵의 적용 상태를 확인합니다.
+맵 적용 방법 (맥)
+1. finder를 엽니다.
+2. Shift + command + g 버튼을 눌러 나온 팝업창에 ~/라이브러리/Application Support/minecraft/ 를 입력 후 확인 버튼을 누릅니다.
+3. Saves 폴더로 들어갑니다.
+4. 압축을 푼 폴더를 복사하여, saves 폴더 내에 붙여넣기 합니다.
+5. 마인크래프트 실행 후 싱글플레이 메뉴로 접속하여 맵의 적용 상태를 확인합니다.
+
+# 맵 적용 방법 (맥)
+1. finder를 엽니다.
+2. Shift + command + g 버튼을 눌러 나온 팝업창에 ~/라이브러리/Application Support/minecraft/ 를 입력 후 확인 버튼을 누릅니다.
+3. Saves 폴더로 들어갑니다.
+4. 압축을 푼 폴더를 복사하여, saves 폴더 내에 붙여넣기 합니다.
+5. 마인크래프트 실행 후 싱글플레이 메뉴로 접속하여 맵의 적용 상태를 확인합니다.
+
+주요 공간 위치 좌표
+마을 입구 294 7 779
+청와대 본관 -481 4 758
+영빈관 -284 7 816
+정원 -289 12 663
+학교 3 10 633
+병원 7 4 977
+소방서 36 4 864
+경찰서 93 4 843
+좌표 이동 방법
+마인크래프트 내에서 대화 열기 단축키 (T) 입력
+/tp <좌표> 명령어 입력 후 엔터
+
+
+*Notice
+    *This map was designed for Minecraft Java Edition 1.12.2
+    *When playing single-player mode, resource pack is provided
+    *When playing multi-player mode, all players need to apply ‘resources.zip’ file in the map folder
+    *By stepping on the pressure plate, you can enter inside
+
+
+*How to apply the map (Windows)
+    *Launch Minecraft
+    *Install the file and unzip it to a folder
+    *Press Windows key + R and type in %appdata% to the popup window and click Go
+    *Find .minecraft folder and go to saves folder
+    *Copy the unzipped folder and paste inside saves folder
+    *After launching Minecraft, go to single-player mode to check whether the map was applied
+
+*How to apply the map (Mac)
+    *Open Finder
+    *Press Shift + Command + g and type in ~/Library/Application Support/minecraft/ and click Go
+    *Go to Saves Folder
+    *Copy an unzipped folder and paste inside saves folder
+    *Launch Minecraft and go to single-player menu to     check whether the map was applied
+
+*Coordinates
+    * Village entrance 294 7 779
+    * Cheong Wa Dae Main Office Hall  -481 4 758
+    * State Reception House -284 7 816
+    * Garden -289 12 663
+    * School 3 10 633
+    * Hospital 7 4 977
+    * Fire station 36 4 864
+    * Police station 93 4 843
+
+* How to move coordinates
+    * Open chat and press T
+    * Press /tp <coordinates> and press enter
