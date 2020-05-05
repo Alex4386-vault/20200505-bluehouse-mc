@@ -23,7 +23,7 @@ Distributed Bluehouse (a.k.a. South Korean Presidential Office) map from south k
 
 I'm not sure this is a collaboration of [Sandbox Network](https://sandboxnetwork.net) or [Micro$oft Xbox $tudios](https://www.xbox.com/en-US/xbox-game-studios) but this is insane thing from south korean government though.  
   
-If government took down its map file, here is the backup. (Even South korean government does SNI Eavesdropping on national network, They are definately not blocking GitHub unless they literally out of mind, though)  
+If government took down its map file, here is the backup. (Even South korean government does SNI Eavesdropping on national network, They are not definately going to  block GitHub unless they are literally out of mind, though)  
 
 ### Changes from Original
 As usual, South Korean government loves M$949, So I changed it to UTF-8.  
