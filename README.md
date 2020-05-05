@@ -1,5 +1,8 @@
 # 20200505-bluehouse-mc
 
+Original Video:  
+[https://youtu.be/Lk92k_k1HMA](https://youtu.be/Lk92k_k1HMA)
+
 ## Korean
 
 2020년 5월 5일 어린이날 (~~어른이날~~) 배포된 청와대맵 파일 박제본입니다.  
@@ -18,7 +21,7 @@
 
 ## English
 
-Distributed Bluehouse (a.k.a. South Korean Presidential Office) map from south korean government on May 5th, 2020.  
+Distributed Bluehouse (a.k.a. South Korean Presidential Office) map from south korean government on May 5th, 2020 (South Korean Children's Day).  
 ~~Whatever I'm pretty sure they removed some confidential stuff~~  
 
 I'm not sure this is a collaboration of [Sandbox Network](https://sandboxnetwork.net) or [Micro$oft Xbox $tudios](https://www.xbox.com/en-US/xbox-game-studios) but this is insane thing from south korean government though.  
