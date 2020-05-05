@@ -8,7 +8,7 @@ Original Video:
 2020년 5월 5일 어린이날 (~~어른이날~~) 배포된 청와대맵 파일 박제본입니다.  
 ~~어짜피 중요한거 다 뺐겠지 안 그래?~~  
   
-[Sandbox Network](https://sandboxnetwork.net) 이랑 콜라보레이션 한 건지 아니면 [Micro$oft Xbox $tudios](https://www.xbox.com/en-US/xbox-game-studios)랑 한 건지는 모르겠지만 일단 혼종입니다.  
+[Sandbox Network](https://sandbox.co.kr) 이랑 콜라보레이션 한 건지 아니면 [Micro$oft Xbox $tudios](https://www.xbox.com/en-US/xbox-game-studios)랑 한 건지는 모르겠지만 일단 혼종입니다.  
   
 혹시 정부에서 맵파일 내리면 이걸 가지고 잘 갖고 노십시오. 휴먼. (아무리 SNI Eavesdropping하는 정부라고 해도 웬만히 미치지 않는 이상 GitHub를 막지는 않을 것 아닙니까)  
 
@@ -24,7 +24,7 @@ Original Video:
 Distributed Bluehouse (a.k.a. South Korean Presidential Office) map from south korean government on May 5th, 2020 (South Korean Children's Day).  
 ~~Whatever I'm pretty sure they removed some confidential stuff~~  
 
-I'm not sure this is a collaboration of [Sandbox Network](https://sandboxnetwork.net) or [Micro$oft Xbox $tudios](https://www.xbox.com/en-US/xbox-game-studios) but this is insane thing from south korean government though.  
+I'm not sure this is a collaboration of [Sandbox Network](https://sandbox.co.kr) or [Micro$oft Xbox $tudios](https://www.xbox.com/en-US/xbox-game-studios) but this is insane thing from south korean government though.  
   
 If government took down its map file, here is the backup. (Even South korean government does SNI Eavesdropping on national network, They are not definately going to  block GitHub unless they are literally out of mind, though)  
 
